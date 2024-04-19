@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "projeto-filme",
+    "slug": "projeto-filme",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
